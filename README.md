@@ -1,1 +1,2 @@
 # best-repo-ever. Changes made to the file.
+# Added another line to test conflicts.
